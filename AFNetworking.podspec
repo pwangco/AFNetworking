@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/AFNetworking/AFNetworking'
   s.social_media_url = 'https://twitter.com/AFNetworking'
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me' }
-  s.source   = { :git => 'https://github.com/AFNetworking/AFNetworking.git', :tag => "2.3.1", :submodules => true }
+  s.source   = { :git => 'https://github.com/pwangco/AFNetworking.git', :tag => "1.3.4", :submodules => true }
   s.requires_arc = true
 
   s.ios.deployment_target = '6.0'
